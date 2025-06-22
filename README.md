@@ -23,7 +23,8 @@ This Google Apps Script automatically sends a summary of your upcoming week’s 
 
 ## 📸 Preview
 
-_(Add screenshots here later)_
+![Email Preview](https://github.com/user-attachments/assets/c3817efb-3aaa-47f4-8a00-c3e02c6c79f9)
+
 
 ---
 
