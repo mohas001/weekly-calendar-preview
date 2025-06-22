@@ -21,10 +21,6 @@ This Google Apps Script automatically sends a summary of your upcoming week’s 
 
 ---
 
-## 📸 Preview
-
-![Calendar Preview](./images/preview.png)
-
 
 ---
 
